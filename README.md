@@ -7,7 +7,7 @@
 ## Can I help you with the bot?
 - Currently not looking for testers nor co-devs. 
 ## I have an idea to make the bot better!
-- For support, suggestions and alike please contact me on my discord. You can edit this bot yourself in any way youd like.
+- For support, suggestions and alike please contact me on my discord. You can edit this bot yourself in any way youd like. Kaiy#3993
 ## List of people whom contributed to creating this bot:
 - Kaiy - Coder
 - Tips - Coder
