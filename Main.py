@@ -6,7 +6,6 @@ import time
 from typing import Union
 import config
 
-
 # Main functions
 intents = discord.Intents.all()
 client = discord.ext.commands.Bot(command_prefix="!", intents=intents)
